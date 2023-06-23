@@ -49,7 +49,6 @@ PRODUCT_PACKAGES += \
     sct_service.rc \
     shsusrd.rc \
     sensors.rc \
-    vendor.sensors.qesdk.rc \
     ta_qmi.rc \
     tftp_server.rc \
     vendor.qti.diag.rc
