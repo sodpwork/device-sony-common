@@ -29,6 +29,8 @@ endif
 PRODUCT_SOONG_NAMESPACES += \
     $(COMMON_PATH) \
     $(PLATFORM_COMMON_PATH) \
+    hardware/google/pixel \
+    hardware/google/interfaces \
     vendor/qcom/opensource/core-utils \
     vendor/qcom/opensource/display/$(display_platform) \
     vendor/qcom/opensource/display-commonsys-intf/$(display_platform)
